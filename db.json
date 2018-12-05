@@ -1,0 +1,49 @@
+{
+    "details":[
+            {
+                "name" : "priya",
+                "email" : "priya@gmail.com",
+                "phone" : "1234667890",
+                "gender" : "Female",
+                "dob" : "03.06.1993",
+                "hobbies" : "reading",
+                "state" : "Andhra Pradesh"
+            },
+            {
+                "name" : "person1",
+                "email" : "person1@gmail.com",
+                "phone" : "1234667890",
+                "gender" : "Male",
+                "dob" : "21.01.1994",
+                "hobbies" : "movies",
+                "state" : "Uttar Pradesh"
+            },
+            {
+                "name" : "person2",
+                "email" : "person2@gmail.com",
+                "phone" : "1234667890",
+                "gender" : "Male",
+                "dob" : "31.07.1993",
+                "hobbies" : "reading",
+                "state" : "Kerala"
+            },
+            {
+                "name" : "person3",
+                "email" : "person3@gmail.com",
+                "phone" : "1234667890",
+                "gender" : "Male",
+                "dob" : "13.08.1990",
+                "hobbies" : "trekking",
+                "state" : "Odisha"
+            },
+            {
+                "name" : "person4",
+                "email" : "person4@gmail.com",
+                "phone" : "1234667890",
+                "gender" : "Female",
+                "dob" : "28.12.1991",
+                "hobbies" : "watching tv",
+                "state" : "Arunachal Pradesh"
+            }
+    ]
+}
